@@ -7,3 +7,6 @@ Currently have facebook, twitter and google-plus.
 TO-DO List 
 - [ ] update to font-awesome latest version (4.4.0)
 - [ ] add more button (rss, linkedin, pinterest etc.)
+
+
+source http://codepen.io/minimalmonkey/pen/Ecpla
